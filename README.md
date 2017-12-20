@@ -1,2 +1,2 @@
 # raf-bounce
-Debounced functions limited to the speed of request animation frame
+Creates a debounced function throttled by requestAnimationFrame
