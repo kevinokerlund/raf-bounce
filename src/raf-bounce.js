@@ -1,5 +1,3 @@
-console.log('Wow');
-
 class Bouncer {
 	constructor(callback) {
 		this.callback = callback;
