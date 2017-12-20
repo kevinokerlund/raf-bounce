@@ -2,7 +2,7 @@
   "name": "raf-bounce",
   "version": "1.0.1",
   "description": "Creates a debounced function throttled by requestAnimationFrame",
-  "main": "index.js",
+  "main": "lib/raf-bounce.js",
   "scripts": {
     "build": "rollup -c --sourcemap",
     "watch": "rollup -c --watch --sourcemap",

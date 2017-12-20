@@ -4,7 +4,7 @@ import babel from 'rollup-plugin-babel';
 export default {
 	input: 'src/raf-bounce.js',
 	output: {
-		file: 'lib/raf-bounce.min.js',
+		file: 'lib/raf-bounce.js',
 		format: 'umd',
 		name: 'RafBounce'
 	},
